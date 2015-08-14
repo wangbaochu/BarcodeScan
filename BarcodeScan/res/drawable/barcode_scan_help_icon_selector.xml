@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 	For the help icon in the top right corner of the barcode scan window. -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/barcode_scan_help_icon_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/barcode_scan_help_icon_selected" android:state_focused="true"/>
+    <item android:drawable="@drawable/barcode_scan_help_icon_selected" android:state_selected="true"/>
+    <item android:drawable="@drawable/barcode_scan_help_icon"/>
+
+</selector>

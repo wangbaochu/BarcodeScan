@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">条形码扫描</string>
+    
+    <!-- 条形码扫描 -->
+    <string name="barcode_auto_scan">自动扫描</string>
+    <string name="barcode_scan_help_title">条形码扫描帮助</string>
+    <string name="barcode_scan_help_info_title">使用说明</string>
+    <string name="barcode_scan_help_bullet">•</string>
+    <string name="barcode_scan_help_info_line1">请将所要扫描的条形码置于长方形取景框中央，并让红线跨越条形码。（见下图）</string>
+    <string name="barcode_scan_help_info_line2">条形码扫描器拥有自动对焦功能，不要摇晃您的设备，将条形码置于光线充足的环境下，条形码会被自动识别。</string>
+    <string name="barcode_scan_help_info_line3">若光线较暗，请点击扫描器右下角菜单打开闪光灯</string>
+    <string name="barcode_scan_help_OK">&#160;&#160;&#160;确   定&#160;&#160;&#160;</string>
+    <string name="barcode_scan_msg">请将要扫描的条形码置于长方形取景框中</string>
+    
+    <!-- 照相机闪光灯状态设置 -->
+    <string name="camera_flash_mode_select_title">闪光灯设置</string>
+    
+    <string name="preferences_actions_title">找到条码时</string>
+    <string name="preferences_bulk_mode_summary">连续扫描并保存多个条形码</string>
+    <string name="preferences_bulk_mode_title">批量扫描模式</string>
+    <string name="preferences_copy_to_clipboard_title">复制到剪切板</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">替换：％s=内容，％f=格式，％t=类型</string>
+    <string name="preferences_custom_product_search_title">自定义搜索网址</string>
+    <string name="preferences_decode_1D_title">扫描 一维条码</string>
+    <string name="preferences_decode_Data_Matrix_title">扫描 DM码</string>
+    <string name="preferences_decode_QR_title">扫描 QR码</string>
+    <string name="preferences_front_light_summary">前灯可用时，打开前灯</string>
+    <string name="preferences_front_light_title">前灯</string>
+    <string name="preferences_general_title">一般设置</string>
+    <string name="preferences_name">设置</string>
+    <string name="preferences_play_beep_title">提示音</string>
+    <string name="preferences_remember_duplicates_summary">在历史记录中保存重复记录</string>
+    <string name="preferences_remember_duplicates_title">记住重复</string>
+    <string name="preferences_result_title">结果设置</string>
+    <string name="preferences_reverse_image_summary">设备上启用了前置摄像头只</string>
+    <string name="preferences_reverse_image_title">反转摄像机的图像</string>
+    <string name="preferences_scanning_title">条码类型选择</string>
+    <string name="preferences_search_country">搜索国家</string>
+    <string name="preferences_supplemental_summary">尝试检索关于条码内容的更多信息</string>
+    <string name="preferences_supplemental_title">检索更多信息</string>
+    <string name="preferences_vibrate_title">振动</string>
+    
+    <string name="button_ok">确定</string>
+    <string name="contents_text">纯文本</string>
+    <string name="contents_contact">联系人信息</string>
+    <string name="contents_email">Email地址</string>
+    <string name="contents_location">地理坐标</string>
+    <string name="contents_phone">电话号码</string>
+    <string name="contents_sms">短信地址</string>
+    
+    <string name="menu_encode_mecard">使用MECARD</string>
+    <string name="menu_encode_vcard">使用vCard</string>
+    <string name="menu_share">分享</string>
+    <string name="msg_unmount_usb">抱歉，SD卡不可访问。</string>
+    <string name="msg_encode_contents_failed">无法根据已有数据生成条码。</string>
+    <string name="msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string>
+    
+</resources>
